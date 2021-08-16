@@ -9,7 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
 	int a=0;
-	int b=1;
+	int b=11;
 	int c=2;
     }
 
